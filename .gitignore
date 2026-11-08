@@ -1,0 +1,44 @@
+# 数据文件（太大，不传，由generate_data.py生成）
+03_数据文件/输入数据/*.csv
+03_数据文件/输出结果/**/*.csv
+
+# Python临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE文件
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
